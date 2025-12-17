@@ -1,5 +1,7 @@
-## Hi, I´m Oli!👋
+<h1 align="center">Hi , I'm Olivia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**oliviairiarte/oliviairiarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently learning Git and GitHub
+### 👨🏻‍💻 &nbsp;About Me
+- :school: I am a `Computer Engineering` student at [Universidad Nacional de La Plata](https://unlp.edu.ar/)
+- :technologist: I am currently learning `Object-oriented programming in Java` and `Python`.
+- :computer: I’m good at leading `work teams`.
+- 🥇: I´m learning and building `projects` step by step.
