@@ -2,6 +2,5 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - :school: I am a `Computer Engineering` student at [Universidad Nacional de La Plata](https://unlp.edu.ar/)
-- :technologist: I am currently learning `Object-oriented programming in Java` and `Python`.
+- :technologist: I am currently learning `Object-oriented programming in Java`, `C` and `Assembly`
 - :computer: I’m good at leading `work teams`.
-- 🥇: I´m learning and building `projects` step by step.
