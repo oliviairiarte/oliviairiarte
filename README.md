@@ -24,7 +24,7 @@ problem-solving, and continuous learning.
 
 <td width="35%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdzZnhqeW9oamN6MjFoaHZtamIxaDFjaGIwbG1peWlmazIzM3FrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWmvKBiml8vPQUchI/giphy.gif" width="320">
+<img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="320">
 
 </td>
 
