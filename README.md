@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<table border="0">
-<tr border="0">
-
-<td width="68%" valign="top">
+<img align="right"
+     src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"
+     width="250"
+     alt="Coding">
 
 <h3>
   <img src="https://media.tenor.com/JyuRkIuKSzsAAAAi/heart-cute.gif" width="25">
@@ -22,14 +22,3 @@ problem-solving, and continuous learning.
 - 👩🏼‍🏫 I am a Teaching Assistant for a Computer Engineering course.
 - 🌍 Passionate about languages, photography, and discovering new places.
 - 🚀 Ask me about Computer Engineering—I enjoy sharing my experience.
-
-</td>
-
-<td width="62%" valign="top" align="center">
-
-<img src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif" width="240">
-
-</td>
-
-</tr>
-</table>
