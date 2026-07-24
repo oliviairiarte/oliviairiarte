@@ -24,7 +24,7 @@ problem-solving, and continuous learning.
 
 <td width="35%" align="center">
 
-<img src="[https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif](https://media.tenor.com/HKOn2IdEHTgAAAAi/desktops-computer-games.gif)" width="320">
+<img src="https://media.tenor.com/HKOn2IdEHTgAAAAi/desktops-computer-games.gif" width="320">
 
 </td>
 
