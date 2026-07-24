@@ -10,3 +10,14 @@ Second-year `Computer Engineering` student at the [Universidad Nacional de La Pl
 - 👩🏼‍🏫 I am a Teaching Assistant for a Computer Engineering (IC) course.
 - 🌍 Passionate about languages, photography and discovering new places.
 - 🚀 Ask me about Computer Engineering, I enjoy sharing my experience​
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdzZnhqeW9oamN6MjFoaHZtamIxaDFjaGIwbG1peWlmazIzM3FrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWmvKBiml8vPQUchI/giphy.gif" width="320">
+
+</td>
+
+</tr>
+</table>
