@@ -25,7 +25,7 @@ problem-solving, and continuous learning.
 
 </td>
 
-<td width="32%" valign="top" align="center">
+<td width="62%" valign="top" align="center">
 
 <img src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif" width="240">
 
