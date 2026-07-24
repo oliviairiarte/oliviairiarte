@@ -6,7 +6,7 @@
 <img 
   align="right" 
   src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif" 
-  width="350" 
+  width="280" 
   alt="Coding">
 
 <h3>
