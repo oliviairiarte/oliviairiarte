@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img align="right"
-     src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif"
-     width="250"
-     alt="Coding">
+<img 
+  align="right"
+  src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif"
+  width="250"
+  style="margin-top:-25px;"
+  alt="Coding">
 
 <h3>
   <img src="https://media.tenor.com/JyuRkIuKSzsAAAAi/heart-cute.gif" width="25">
