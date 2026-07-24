@@ -4,7 +4,7 @@
 </h1>
 
 <img align="right"
-     src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif"
+     src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif"
      width="250"
      alt="Coding">
 
@@ -21,4 +21,4 @@ problem-solving, and continuous learning.
 - 💻 I am currently learning `Object-oriented Programming in Java`, `C`, and `Assembly`.
 - 👩🏼‍🏫 I am a Teaching Assistant for a Computer Engineering course.
 - 🌍 Passionate about languages, photography, and discovering new places.
-- 🚀 Ask me about Computer Engineering—I enjoy sharing my experience.
+- 🚀 Ask me about Computer Engineering; I enjoy sharing my experience.
