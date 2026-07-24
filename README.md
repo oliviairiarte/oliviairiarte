@@ -4,10 +4,9 @@
 </h1>
 
 <img 
-  align="right"
-  src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif"
-  width="250"
-  style="margin-top:-25px;"
+  align="right" 
+  src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif" 
+  width="350" 
   alt="Coding">
 
 <h3>
